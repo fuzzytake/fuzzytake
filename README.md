@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fuzzytake
-- 👀 I’m interested in headless Commerce & Wordpress
+- 👀 I’m interested in Python-powered apps
 - 🌱 I’m currently learning Python and app building
-- 💞️ I’m looking to collaborate on marketing projects or new products/ventures.
+- 💞️ I’m looking to collaborate on new products/ventures.
 - 📫 How to reach me fuzzytake at gmail.com
 
 <!---
