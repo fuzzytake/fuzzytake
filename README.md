@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fuzzytake
-- 👀 I’m interested in Python-powered apps
-- 🌱 I’m currently learning Python and app building
+- 👀 I’m interested in Python-powered apps and AI wrappers
+- 🌱 I’m currently learning GenAI app building
 - 💞️ I’m looking to collaborate on new products/ventures.
 - 📫 How to reach me fuzzytake at gmail.com
 
